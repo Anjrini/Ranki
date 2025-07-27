@@ -20,7 +20,7 @@ where:
 ## Running the Script
 
 ```
-After Providing the requirements or the function in line 26, we then run the function at line 29
+After Providing the vector required for the function in line 26, we then run the function at line 29
 ```
 
 ## Exmaple
