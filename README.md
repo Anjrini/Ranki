@@ -1,6 +1,6 @@
 ## Ranki
 
-This cript is a self-implemented code for the function Rank in R.
+This script is a self-implemented code for the function Rank in R.
 
 ## Libraries:
 
